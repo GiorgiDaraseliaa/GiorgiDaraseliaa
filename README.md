@@ -1,0 +1,2 @@
+- 👋 Print("Hello Friends")
+- 👋 Print("Bye")
